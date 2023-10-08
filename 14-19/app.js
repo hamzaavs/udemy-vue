@@ -3,7 +3,7 @@ const app = Vue.createApp({
     return {
       courseGoalA: "Finish Goal",
       courseGoalB: "MasterGoal",  
-      vueLink: "<a href:'https://degerse.com/'>click</a>",
+      vueLink: "<a href:'https://google.com/'>click</a>",
     };
   },
   methods: {
